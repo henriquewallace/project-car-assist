@@ -1,0 +1,6 @@
+[submodule "car-assist-schedule-backend"]
+	path = car-assist-schedule-backend
+	url = https://github.com/KoalaSoftwares/car-assist-schedule-backend.git
+[submodule "car-assist-store-backend"]
+	path = car-assist-store-backend
+	url = https://github.com/KoalaSoftwares/car-assist-store-backend.git
